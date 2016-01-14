@@ -52,7 +52,7 @@
 
 **Work session/small groups** (1 hour 45)
 
-####Group B: More GitHub and Tooling (Abby, Aurelia, +?)
+#####Group B: More GitHub and Tooling (Abby, Aurelia, +?)
 **Short Talk with Demo**
 
 * other tooling options?
