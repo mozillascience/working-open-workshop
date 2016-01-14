@@ -1,5 +1,5 @@
 # Welcome to the Working Open Workshop repo!
-This is a repo to collecting all materials and resources related to Mozilla Science Lab's Working Open Workshop. You are very welcome to fork this repo and hold your own Working Open Workshops. 
+This is a repo to collect all materials and resources related to Mozilla Science Lab's Working Open Workshop. You are very welcome to fork this repo and hold your own Working Open Workshops. 
 
 ####What is the Working Open Workshop?
 
