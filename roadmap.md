@@ -8,11 +8,11 @@ Milestones are week by week in the run-up to the Workshop.
 
 ####Week of January 11
 
-- [ ] Create Repo, Readme and Roadmap
-- [ ] Create workshop schedule
-- [ ] Review Pre-workshop Survey Responses
+- [x] Create Repo, Readme and Roadmap
+- [x] Create workshop schedule
+- [x] Review Pre-workshop Survey Responses
 - [ ] Check in with Design Team on visual resources for WOW
-- [ ] Complie drafts (work in progress, notes, whatever you have) of short talk outline (see issues for each):
+- [ ] Compile drafts (work in progress, notes, whatever you have) of short talk outline (see issues for each):
 
 (WOW Day 1)
 
