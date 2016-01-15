@@ -13,13 +13,17 @@ Milestones are week by week in the run-up to the Workshop.
 - [x] Review Pre-workshop Survey Responses
 - [ ] Check in with Design Team on visual resources for WOW
 - [ ] Compile drafts (work in progress, notes, whatever you have) of short talk outline (see issues for each):
+
  **(WOW Day 1)**
+ 
  * Roadmapping
  * Crafting a Readme 
  * Contributor Guidelines
  * Github for New Leads and Contributors
  * More Github
+
  **(WOW Day 2)**
+ 
  * User personas
  * Codes of Conduct
  * Events and Sprints
