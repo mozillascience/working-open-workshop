@@ -6,7 +6,7 @@
 ####Timeline:
 Milestones are week by week in the run-up to the Workshop.
 
-####Week of January 11
+####Week ending January 15
 
 - [x] Create Repo, Readme and Roadmap
 - [x] Create workshop schedule
@@ -29,7 +29,7 @@ Milestones are week by week in the run-up to the Workshop.
  * Events and Sprints
  * Data Reuse Plans
 
-####Week of January 18
+####Week Ending January 22
 - [ ] Holiday! MLK Day in USA
 - [ ] Review Drafts of Talks (above) 
 - [ ] Revise Talks
@@ -38,14 +38,14 @@ Milestones are week by week in the run-up to the Workshop.
 - [ ] Create plan for curriculum work during Fellows Workweek
 - [ ] Plan format for Kits 
 
-####Week of January 25
+####Week ending January 29
 - [ ] Revise tearsheets/handouts
 - [ ] Create visuals for talks/slides
 - [ ] Review all materials
 - [ ] Build kits
 
-####Week of February 1st
+####Week ending February 6
 - [ ] Catch up
 - [ ] Testing and revision with Fellows
 - [ ] Some production with Fellows
-
+- [ ] Run the workshop!
