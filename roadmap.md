@@ -44,7 +44,7 @@ Milestones are week by week in the run-up to the Workshop.
 - [ ] Review all materials
 - [ ] Build kits
 
-Week of February 1st
+####Week of February 1st
 - [ ] Catch up
 - [ ] Testing and revision with Fellows
 - [ ] Some production with Fellows
