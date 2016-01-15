@@ -47,5 +47,5 @@ Milestones are week by week in the run-up to the Workshop.
 Week of February 1st
 - [ ] Catch up
 - [ ] Testing and revision with Fellows
-- [ ] Some production with fellows
+- [ ] Some production with Fellows
 
