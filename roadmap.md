@@ -11,7 +11,8 @@ Milestones are week by week in the run-up to the Workshop.
 - [x] Create Repo, Readme and Roadmap
 - [x] Create workshop schedule
 - [x] Review Pre-workshop Survey Responses
-- [ ] Check in with Design Team on visual resources for WOW
+- [x] Check in with Design Team on visual resources for WOW
+- [x] Assign issues
 - [ ] Compile drafts (work in progress, notes, whatever you have) of [short talk outline](https://github.com/mozillascience/learning/blob/master/talk-guidelines.md) (see issues for each):
 
  **(WOW Day 1)**
