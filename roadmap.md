@@ -12,7 +12,7 @@ Milestones are week by week in the run-up to the Workshop.
 - [ ] Create workshop schedule
 - [ ] Review Pre-workshop Survey Responses
 - [ ] Check in with Design Team on visual resources for WOW
-- [ ] Post a link to your draft (work in progress) of short talk outline (see issues for each):
+- [ ] Complie drafts (work in progress, notes, whatever you have) of short talk outline (see issues for each):
 
 (WOW Day 1)
 
