@@ -94,13 +94,13 @@
  
 ####Open Data & Data Reuse Plans 
 *1:30-2:45*
-**Short talk** (30 mins)
+**Short talk** (10-15 mins)
 
 * Open Data and Data Reuse Plans (Steph & Christie + ?)
 
 **Shareouts** (5 mins)
 
-**Work session** (1 hour)
+**Work session** (45 mins)
 
 **Wrap up** (10 mins)
 
