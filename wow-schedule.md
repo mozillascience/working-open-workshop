@@ -38,7 +38,7 @@
 ####Tools for Collaboration
 *2:30 to 5:30*
 
-#####Group A: GitHub for New Project Leads and Contributors (Arliss, Zannah, Joey +?)
+#####GitHub for New Project Leads and Contributors (Arliss, Zannah, Joey +?)
 **Short Talk with Demo** (20-30 mins)
 
 * intro to version control, model, uses,
@@ -52,21 +52,7 @@
 
 **Work session/small groups** (1 hour 45)
 
-#####Group B: More GitHub and Tooling (Abby, Aurelia, +?)
-**Short Talk with Demo**
-
-* other tooling options?
-* advanced github
-* websites and gitbooks
-* polite collaboration
-
-**Share-outs** (10 mins)
-
-**Break** (15 mins)
-
-**Work session/small groups** (1 hour 45)
-
-**A & B together: Feedback/reflections** (20 mins)
+**Feedback/reflections** (20 mins)
 
 
 ### DAY 2: SATURDAY
