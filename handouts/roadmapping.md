@@ -59,12 +59,12 @@ You can see an example of this in the [Contributorship Badges for Science Roadma
 3. Write the **Timeline**
   * This section organizes tasks needed to complete your project around milestones
   * When your community decides to do something, write it down in the roadmap! Your roadmap will constantly be changing as you hit milestones and decide on important features.
-  * Pick some milestones - they can be:
+  * **Pick some milestones** - they can be:
     * project status goals (project up on Collaborate, MVP)
     * dates (good if you have deadlines / set time to work on the project)
     * events (Mozilla Science Lab Global Sprint, MozFest)
     * short term, medium term and long term - use this if you don't have set deadlines
-  * Lists tasks under each milestone. Take time here to explain *why* you are doing this task. It can help enforce your vision for this project.
+  * **Lists tasks under each milestone**. Take time here to explain *why* you are doing this task. It can help enforce your vision for this project.
     * Your tasks will probably be more detailed in shorter-term goals
 
 ### Follow-up resources and materials: 
