@@ -2,14 +2,14 @@
 
 ###DAY 1: FRIDAY 
 
-####Arrivals
-*8:00 to 8:45*
+####Arrivals & Breakfast
+*8:30am - 9:30am* (Breakfast served at 9:00am)
 
 ####Welcome & Intros
-*8:45 to 9:30*
+*9:30am - 10:15am*
 
 ####How to Open Your Project
-*9:30am  to 12:30pm*
+*10:15am - 12:30pm*
 
 **Short Talks** (10 mins each, to intro concepts and prep participants to work on deliverables)  (30 mins)
 
@@ -33,10 +33,10 @@
 
 
 ####Lunch 
-*12:30 to 2:30*
+*12:30pm - 2:30pm*
 
 ####Tools for Collaboration
-*2:30 to 5:30*
+*2:30pm - 5:30pm*
 
 #####GitHub for New Project Leads and Contributors (Arliss, Zannah, Joey +?)
 **Short Talk with Demo** (20-30 mins)
@@ -57,12 +57,12 @@
 
 ### DAY 2: SATURDAY
 
-####Arrivals: 
-*9-9:30am*
+####Arrivals & Breakfast: 
+*9:00am - 9:30am*
 
 
 ####Community Building and Managment
-*9:30am to 12:30pm* 
+*9:30am - 12:30pm* 
 **Short Talks** (10 mins each, to intro concepts and prep participants to work on deliverables)  (30 mins)
 
  * Code of Conduct (Kaitlin + ?)
@@ -76,10 +76,11 @@
 **Work session/small groups** (1 hour 45)
 
 ####Lunch 
-*12:30 to 1:30*
+*12:30pm - 1:30pm*
  
 ####Open Data & Data Reuse Plans 
-*1:30-2:45*
+*1:30pm - 2:45pm*
+
 **Short talk** (10-15 mins)
 
 * Open Data and Data Reuse Plans (Steph & Christie + ?)
@@ -92,8 +93,8 @@
 
 
 ####Closing 
-*2:45 to 3ish*
+*2:45 - 3:00*
 
 
 ####Skillshare/breakout sessions
-*3pm to 4:30* 
+*3:00pm - 4:00pm* 
