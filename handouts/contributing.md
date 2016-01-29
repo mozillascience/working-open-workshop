@@ -23,18 +23,20 @@ Paper, pen (in person); Collaborative document like [Etherpad](public.etherpad-m
 
 ### Before using this resource you should be familiar with:
 
-* [Contributor Covenant:  A Code of Conduct for Open Source Projects](http://contributor-covenant.org/)
-* General structure of a Github repository, this [project structure outline](https://github.com/CODESIGN2/Project-Structure) can help
+* General structure of a Github repository
 * Creating files on Github (editing in browser or on command line)
-* Markdown syntax, [Github's guidelines for Markdown syntax](https://guides.github.com/features/mastering-markdown/) can help, and using a "markdown editor" like [Mou](http://25.io/mou/) or [Dilliger](http://dillinger.io/) will help you toggle between Markdown sytax and its rendered product
+* Markdown syntax, and (optional) a "markdown editor" like [Mou](http://25.io/mou/) or [Dilliger](http://dillinger.io/) will help you toggle between Markdown sytax and its rendered product
 
 ### For information on those topics, see:
 
+* [Contributor Covenant:  A Code of Conduct for Open Source Projects](http://contributor-covenant.org/)
+* [Suggested project structure outline for Github](https://github.com/CODESIGN2/Project-Structure)
+* [Github's guidelines for Markdown syntax](https://guides.github.com/features/mastering-markdown/)
 * [Github's Guidlines for setting up CONTRIBUTING.md](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)
 * [Working Open Guide: Mechanics of Contributing](http://mozillascience.github.io/leadership-training/03.1-mechanics.html)
 
 ### Intro to material: 
-A `CONTRIBUTING.md` file in your open source repository or site, provides potential project contributors with a short guide to how they can help with your project or study group. It is convention to capitalize the word "contributing" as the file title, and to save it as a resource in markdown (hence the extension `.md`). 
+A `CONTRIBUTING.md` file, in your open source repository or site, provides potential project contributors with a short guide to how they can help with your project or study group. It is convention to capitalize the word "contributing" as the file title, and to save it as a resource in markdown (hence the extension `.md`). 
 
 This file is for:
 
