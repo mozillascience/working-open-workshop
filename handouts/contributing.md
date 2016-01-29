@@ -93,9 +93,8 @@ So this in Markdown:
  * **docs**: handbook/roadmap (you'll learn more about this in the roadmapping session, you can read the outline for that [here](http://mozillascience.github.io/leadership-training/02.2-roadmap.html) and take a look at the [Study Group Handbook](http://mozillascience.github.io/studyGroupHandbook/) as an example)
  * **bugs**: issue tracker/bug report tool
  * **comms**: forum link, developer list, IRC/email 
-
-* **Testing** - how to test the project, where the tests are located in your directories
-* **Environment details** - how to set up your development environment - this might exist in the `README.md` depending on the project. If so, then include a link
+* **Testing** - how to test the project, where the tests are located in your directories.
+* **Environment details** - how to set up your development environment - this might exist in the `README.md` depending on the project. If so, then include a link.
 * **How to submit changes** - (Pull Request protocol etcet), you might also include what response they'll get back from the team on submission, or any caveats about the speed of response.
 * **How to report a bug** - Bugs are problems in code, in the functionality of an application or in its UI design; you can submit them through "bug trackers" and most projects invite you to do so, so that they may "debug" with more efficiency and the input of a contributor. Take a look at [Atom's example here](https://github.com/atom/atom/blob/master/CONTRIBUTING.md#reporting-bugs) for how to teach people to report bugs to your project
  * **Templates** - in this section of your file, you might also want to link to a bug report "template" like this one [here](https://gist.github.com/auremoser/72803ba969d0e61ff070) which contributors can copy and add context to; this will keep your bugs tidy and relevant.
