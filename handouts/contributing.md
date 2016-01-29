@@ -19,22 +19,19 @@ Paper, pen (in person); Collaborative document like [Etherpad](public.etherpad-m
 
 ![Mou Markdown View](http://i.imgur.com/byGmNwM.png)
 
+*Fig1: side-by-side markdown and rendered contributor file for Atom.io, as viewed in Mou*
+
 ### Before using this resource you should be familiar with:
 
-n/a.  
+* Creating files on Github (editing in browser or on command line)
+* Markdown syntax, [Github's guidelines for Markdown syntax](https://guides.github.com/features/mastering-markdown/) can help, and using a "markdown editor" like [Mou](http://25.io/mou/) or [Dilliger](http://dillinger.io/) will help you toggle between Markdown sytax and its rendered product
+* General structure of a Github repository, this [project structure outline](https://github.com/CODESIGN2/Project-Structure) can help
+* [Contributor Covenant:  A Code of Conduct for Open Source Projects](http://contributor-covenant.org/)
 
 ### For information on those topics, see:
 
-* [Github's guidelines for Markdown syntax](https://guides.github.com/features/mastering-markdown/)
-* [Contributor Covenant:  A Code of Conduct for Open Source Projects](http://contributor-covenant.org/)
 * [Github's Guidlines for setting up CONTRIBUTING.md](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)
-* [Project structure outiline](https://github.com/CODESIGN2/Project-Structure)
 * [Working Open Guide: Mechanics of Contributing](http://mozillascience.github.io/leadership-training/03.1-mechanics.html)
-* [SlideWinder Contributor Site](http://www.slidewinder.io/docs/)
-* **[Atom Editor's CONTRIBUTING.md](https://github.com/atom/atom/blob/master/CONTRIBUTING.md)**
-* **[Open Government's CONTRIBUTING.md](https://github.com/opengovernment/opengovernment/blob/master/CONTRIBUTING.md)**
-
-Links in **bold** are good examples of `CONTRIBUTING.md` files.
 
 ### Intro to material: 
 A `CONTRIBUTING.md` file in your open source repository or site, provides potential project contributors with a short guide to how they can help with your project or study group. It is convention to capitalize the word "contributing" as the file title, and to save it as a resource in markdown (hence the extension `.md`). 
@@ -48,6 +45,8 @@ This file is for:
 `CONTRIBUTING.md` should be in your root directory, think of it as a anchor for your project, around which you will build community and keep things tidy. It complements other "all-caps" resources like your `README.md` (which introduces your community to the project, its purpose and basic installation requirements), or your `LICENSE.md` (which provides information on the resuse and permissions associated with the code).
 
 ![Contributing.md](http://i.imgur.com/O7b85Mg.png)
+
+*Fig2: where a contributor file lives -> root directory pictured in Sublime Text*
 
 `CONTRIBUTING.md` should be one of your first priorities in putting an open source/science project online to solicit contributions. If you have yet to define possible avenues of contribution, consider creating a `CONTRIBUTING.md` file with a "check back later, we will populate this soon" message, and the contact information of the project lead for follow-up
 
@@ -125,6 +124,9 @@ So this in Markdown:
 
 ### Follow-up resources and materials: 
 
+* [Github's Guidlines for setting up CONTRIBUTING.md](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)
+* [Working Open Guide: Mechanics of Contributing](http://mozillascience.github.io/leadership-training/03.1-mechanics.html)
+* [SlideWinder Contributor Site](http://www.slidewinder.io/docs/)
 * [Atom Editor's CONTRIBUTING.md](https://github.com/atom/atom/blob/master/CONTRIBUTING.md)
 * [Open Government's CONTRIBUTING.md](https://github.com/opengovernment/opengovernment/blob/master/CONTRIBUTING.md)
 
