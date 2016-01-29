@@ -19,14 +19,14 @@ Paper, pen (in person); Collaborative document like [Etherpad](public.etherpad-m
 
 ![Mou Markdown View](http://i.imgur.com/byGmNwM.png)
 
-*Fig1: side-by-side markdown and rendered contributor file for Atom.io, as viewed in Mou*
+*Fig 1: side-by-side markdown and rendered contributor file for Atom.io, as viewed in Mou*
 
 ### Before using this resource you should be familiar with:
 
+* [Contributor Covenant:  A Code of Conduct for Open Source Projects](http://contributor-covenant.org/)
+* General structure of a Github repository, this [project structure outline](https://github.com/CODESIGN2/Project-Structure) can help
 * Creating files on Github (editing in browser or on command line)
 * Markdown syntax, [Github's guidelines for Markdown syntax](https://guides.github.com/features/mastering-markdown/) can help, and using a "markdown editor" like [Mou](http://25.io/mou/) or [Dilliger](http://dillinger.io/) will help you toggle between Markdown sytax and its rendered product
-* General structure of a Github repository, this [project structure outline](https://github.com/CODESIGN2/Project-Structure) can help
-* [Contributor Covenant:  A Code of Conduct for Open Source Projects](http://contributor-covenant.org/)
 
 ### For information on those topics, see:
 
@@ -46,10 +46,13 @@ This file is for:
 
 ![Contributing.md](http://i.imgur.com/O7b85Mg.png)
 
-*Fig2: where a contributor file lives -> root directory pictured in Sublime Text*
+*Fig 2: where a CONTRIBUTING file lives -> root directory pictured in Sublime Text*
 
-`CONTRIBUTING.md` should be one of your first priorities in putting an open source/science project online to solicit contributions. If you have yet to define possible avenues of contribution, consider creating a `CONTRIBUTING.md` file with a "check back later, we will populate this soon" message, and the contact information of the project lead for follow-up
+`CONTRIBUTING.md` should be one of your first priorities in putting an open source/science project online to solicit contributions. If you have yet to define possible avenues of contribution, consider creating a `CONTRIBUTING.md` file with a "check back later, we will populate this soon" message, and the contact information of the project lead for follow-up.
 
+![Atom.io](http://imgur.com/wkaDvRQ.png)
+
+*Fig 3: where the Atom.io CONTRIBUTING.md file lives in Github*
 
 ### Steps to complete:
 
@@ -57,7 +60,13 @@ This exercise can be done individually or in a group. Try to build a draft of th
 
 ##### STEP 1: Reflect/Plan
 
-Start by reflecting on what to include, and what to invite (in terms of contributions) in your `CONTRIBUTING.md`. Consider the following bulleted items:
+Start by reflecting on what to include, and what to invite (in terms of contributions) in your `CONTRIBUTING.md`.
+
+![Atom Contributing file](http://imgur.com/wASaP5P.png)
+
+*Fig 4: contents of the the Atom.io CONTRIBUTING.md file in Github*
+
+Consider the following bulleted items:
 
 * **Welcome contributors to the project** - admit that you are eager for contributions and so happy they found themselves here. 
 
