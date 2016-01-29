@@ -6,9 +6,11 @@
 *8:30am - 9:30am* (Breakfast served at 9:00am)
 
 ####Welcome & Intros
-*9:15am - 9:35am* Short intros: name, affliation, project, interest (30 sec each!)
-*9:35am - 9:40am* Intropducing the Open Leaders Cohort Program
-*9:40 - 10:00am*  Diversity & Inclusion Exercise 
+*9:15am - 9:35am* - Short intros: name, affliation, project, interest (30 sec each!)
+
+*9:35am - 9:40am* - Introducing the Open Leaders Cohort Program
+
+*9:40 - 10:00am*  - Diversity & Inclusion Exercise 
 
 **Break** (15 mins)
 
