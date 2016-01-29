@@ -1,0 +1,492 @@
+// Main colors
+@primary-darkest: #2581B7;    // Navigation selected state
+@primary-dark: #2F8DBC;       // Navigation hover state
+@primary: #4F99C4;            // Section headings and side-bar background
+@primary-light: #CAE8FA;      // Borders & horizontal rules
+@primary-lightest: #E0F3FF;   // Background for Example
+
+// Neutral Text
+@text-dark: #273D44;            // Dark headings and bold items
+@text-medium: rgba(0,0,0,.45);  // Body copy (paragraphs, lists, etc.)
+
+// Links
+@link-color: #089970;         // Link text
+@link-background: #E4F7F0;    // Link background when hovered
+
+// Layout
+@aside-width: 230px;          // Width of the navigation side bar
+@base-font-size: 16px;        // Base font size for body copy
+
+body {
+  font-family: "Fira Sans","Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  padding: 0;
+  margin: 0;
+
+  * {
+    padding: 0;
+    margin: 0;
+    font-size: inherit;
+    font-weight: 400;
+  }
+}
+
+// Basic content & tags
+
+h1 {
+  font-size: 32px;
+  margin: 0 0 35px 0;
+  color: @text-dark;
+  position: relative;
+  line-height: 120%;
+}
+
+h2 {
+  font-size: 32px;
+  font-style: italic;
+  color: @primary-darkest;
+  margin: 30px 0 20px 0;
+}
+
+h3 {
+  color: @primary-darkest;
+  font-size: 20px;
+  font-weight: 500;
+  margin: 20px 0 8px 0;
+}
+
+h4 {
+  color: @text-dark;
+  margin: 0 0 10px 0;
+  font-size: 18px;
+}
+
+p, li {
+  color: @text-medium;
+  line-height: 160%;
+}
+
+ul, ol {
+  margin: 0 0 30px 0;
+
+  li {
+    margin-bottom: 6px;
+  }
+}
+
+ul {
+  li {
+    list-style-type: none;
+    position: relative;
+
+    &:before {
+      content: ".";
+      position: absolute;
+      left: -15px;
+      font-weight: 700;
+      color: inherit;
+      font-size: 25px;
+      top: -6px;
+    }
+  }
+}
+
+strong {
+  font-weight: 500;
+  color: @text-dark;
+}
+
+p {
+  margin: 0 0 30px 0;
+}
+
+a {
+  color: @link-color;
+  transition: background .05s ease-out;
+
+  &:hover {
+    background: @link-background;
+  }
+}
+
+
+// The main conent wrapper
+
+article {
+  max-width: 750px;
+  min-width: 500px;
+  position: relative;
+  padding: 20px 0 40px @aside-width + 65;
+  margin-right: 55px;
+  z-index: 1;
+}
+
+.logo {
+  position: relative;
+  left: -12px;
+  width: 175px;
+  margin-bottom: 10px;
+
+  a:hover {
+    background: none;
+    opacity: .8;
+  }
+}
+
+// Example callout box
+
+.example {
+  display: flex;
+  margin: 35px 0 40px 0;
+  background: @primary-lightest;
+  color: @primary-darkest;
+  padding: 30px 35px;
+
+  .title {
+    flex: 1;
+    color: inherit;
+
+    h1 {
+      width: 100%;
+      padding: 0 0 2px 0;
+      font-size: 20px;
+      font-style: italic;
+      position: relative;
+      top: 3px;
+      color: inherit;
+    }
+  }
+
+  .content {
+    flex: 2;
+    color: inherit;
+    position: relative;
+    padding-left: 22px;
+
+    &:after {
+      content: "";
+      width: 2px;
+      left: -2px;
+      top: 4px;
+      height: ~"calc(100% - 8px)";
+      position: absolute;
+      background: @primary-light;
+    }
+
+    p:last-child {
+      margin: 0;
+    }
+
+    * {
+      color: inherit;
+    }
+  }
+
+}
+
+// Summary, audience and duration
+.meta-information {
+  display: flex;
+  margin: 0 -20px 50px -20px;
+
+  .summary, .details {
+    margin: 0 20px;
+  }
+
+  .summary {
+    flex: 2;
+    font-size: 18px;
+    line-height: 145%;
+    padding: 0 0 0 28px;
+    font-style: italic;
+    position: relative;
+
+    &:after {
+      content: "";
+      width: 3px;
+      height: ~"calc(100% - 10px)";
+      left: 0;
+      top: 5px;
+      position: absolute;
+      background: @primary-light;
+    }
+  }
+
+  .details {
+    flex: 1;
+
+    time, .difficulty {
+      color: @primary-darkest;
+      font-weight: 700;
+      margin-bottom: 3px;
+      display: block;
+    }
+
+    time:before {
+      content:   "\f017";
+      font-family: FontAwesome;
+      margin-right: 6px;
+    }
+
+    .difficulty:before {
+      content:   "\f007";
+      font-family: FontAwesome;
+      margin-right: 6px;
+    }
+  }
+}
+
+// Format, target audience & materials
+.presentation-details {
+  display: flex;
+  margin: 0 -20px 35px -20px;
+
+  section {
+    flex: 1;
+    margin: 0 20px;
+
+    :last-child {
+      margin-bottom: 0;
+    }
+
+  }
+}
+
+// Side-bar with navigation
+aside {
+  background: @primary;
+  position:fixed;
+  height: 100vh;
+  width: @aside-width;
+  top: 0;
+  z-index: 2;
+
+  .image {
+    position: relative;
+
+    img {
+      width: ~"calc(100% - 20px)";
+    }
+  }
+}
+
+/* Left-side Navigation */
+
+nav {
+  padding: 0;
+  margin: 15px 0 80px 0;
+  list-style-type: none;
+  position: relative;
+
+  a {
+    display: block;
+    position: relative;
+    text-decoration: none;
+    color: rgba(255,255,255,.7);
+    padding: 18px 34px;
+    transition: background .05s ease-out;
+
+    &.selected, &.selected:hover {
+      background: @primary-darkest;
+      color: white;
+      font-weight: 500;
+    }
+
+    &:hover {
+      background: @primary-dark;
+      color: rgba(255,255,255,1);
+    }
+
+    &:after {
+      content: "";
+      background: ~"url(images/nav-selected-indicator.svg)";
+      background-position: top left;
+      background-repeat: no-repeat;
+      background-size: contain;
+      height: 100%;
+      width: 20px;
+      position: absolute;
+      top: 0;
+      right: 0;
+      opacity: 0;
+      transition: all .075s ease-out;
+    }
+
+    &.selected {
+      color: rgba(255,255,255,1);
+
+      &:after {
+        opacity: 1;
+        right: -20px;
+      }
+
+    }
+  }
+}
+
+/*The steps to complete list*/
+
+.steps {
+  margin: 30px 0 50px 0;
+  padding: 0 0 0 60px;
+
+  h1 {
+    font-weight: 500;
+    font-size: 22px;
+    margin: 0 0 6px 0;
+    padding: 0;
+    color: @primary-darkest;
+  }
+
+  time {
+    margin: 0 0 10px 0;
+    display: block;
+    color: @text-medium;
+    font-weight: 500;
+
+    &:before {
+      content:   "\f017";
+      font-family: FontAwesome;
+      margin-right: 6px;
+      color: rgba(0,0,0,.25);
+    }
+  }
+
+  > ol {
+    padding: 0;
+  }
+
+  > li {
+    list-style-type: none;
+    position: relative;
+    padding: 0 0 10px 0;
+    margin: 0 0 40px 0;
+
+    &:not(:last-child):after {
+      content: "";
+      position: absolute;
+      bottom: -2px;
+      height: 2px;
+      background: @primary-light;
+      width: 35%;
+      left: ~"calc(22% + 50px)";
+    }
+
+    &:last-child {
+      border: none;
+      margin: 0;
+
+      :last-child {
+        margin: 0;
+      }
+    }
+
+    &:before {
+      position: absolute;
+      left: -60px;
+      top: -10px;
+      font-weight: 400;
+      font-size: 22px;
+      color: @primary-darkest;
+      border: solid 2px @primary-light;
+      height: 43px;
+      width: 43px;
+      text-align: center;
+      box-sizing: border-box;
+      padding-top: 9px;
+      border-radius: 0 50% 50% 50%;
+    }
+
+    // Creates fancy number elements for the Steps-to-Complete list
+    .make-steps(@counter) when (@counter > 0) {
+      .make-steps((@counter - 1));
+      &:nth-child(@{counter}):before {
+        content: ~"'"@counter~"'";
+      }
+    }
+    .make-steps(10);
+  }
+
+  // Lists within the steps to complete list
+  ul, ol {
+    padding: 0;
+
+    li {
+      list-style-type: none;
+
+      &:before {
+        display: none;
+      }
+
+      h2 {
+        font-size: 15px;
+        color: @text-dark;
+        font-style: normal;
+        font-weight: 500;
+        margin: 0;
+      }
+    }
+  }
+
+}
+
+.glossary {
+  -webkit-column-count: 2;
+     -moz-column-count: 2;
+          column-count: 2;
+  -webkit-column-gap: 30px;
+     -moz-column-gap: 30px;
+          column-gap: 30px;
+
+  margin: 0 0 40px 0;
+
+  .term {
+    -webkit-column-break-inside: avoid;
+            column-break-inside: avoid;
+    display: table; // Weird hack for Firefox
+
+    h3 {
+      font-weight: 500;
+      font-size: @base-font-size;
+      color: @text-dark;
+      margin: 0;
+    }
+
+    p {
+      margin-bottom: 20px;
+      margin-left: 15px;
+    }
+  }
+
+}
+
+.resources {
+  -webkit-column-count: 2;
+     -moz-column-count: 2;
+          column-count: 2;
+  -webkit-column-gap: 30px;
+     -moz-column-gap: 30px;
+          column-gap: 30px;
+  padding-bottom: 30px;
+
+  .resource  {
+    -webkit-column-break-inside: avoid;
+    break-inside: avoid;
+    padding-bottom: 25px;
+
+    h4 {
+      margin: 0;
+      padding: 0;
+      font-size: 15px;
+      font-weight: 500;
+      line-height: 17px;
+    }
+
+    p {
+      margin: 10px 0 0 0;
+    }
+  }
+}
+
+// TODO: Print styles
+@media print {}
