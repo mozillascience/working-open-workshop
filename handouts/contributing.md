@@ -44,10 +44,6 @@ This file is for:
 
 `CONTRIBUTING.md` should be in your root directory, think of it as a anchor for your project, around which you will build community and keep things tidy. It complements other "all-caps" resources like your `README.md` (which introduces your community to the project, its purpose and basic installation requirements), or your `LICENSE.md` (which provides information on the resuse and permissions associated with the code).
 
-![Contributing.md](http://i.imgur.com/O7b85Mg.png)
-
-*Fig 2: where a CONTRIBUTING file lives -> root directory pictured in Sublime Text*
-
 `CONTRIBUTING.md` should be one of your first priorities in putting an open source/science project online to solicit contributions. If you have yet to define possible avenues of contribution, consider creating a `CONTRIBUTING.md` file with a "check back later, we will populate this soon" message, and the contact information of the project lead for follow-up.
 
 ![Atom.io](http://i.imgur.com/Xp8TMvT.png)
