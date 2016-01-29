@@ -50,7 +50,7 @@ This file is for:
 
 `CONTRIBUTING.md` should be one of your first priorities in putting an open source/science project online to solicit contributions. If you have yet to define possible avenues of contribution, consider creating a `CONTRIBUTING.md` file with a "check back later, we will populate this soon" message, and the contact information of the project lead for follow-up.
 
-![Atom.io](http://imgur.com/wkaDvRQ.png)
+![Atom.io](http://i.imgur.com/Xp8TMvT.png)
 
 *Fig 3: where the Atom.io CONTRIBUTING.md file lives in Github*
 
@@ -62,7 +62,7 @@ This exercise can be done individually or in a group. Try to build a draft of th
 
 Start by reflecting on what to include, and what to invite (in terms of contributions) in your `CONTRIBUTING.md`.
 
-![Atom Contributing file](http://imgur.com/wASaP5P.png)
+![Atom Contributing file](http://i.imgur.com/wASaP5P.png)
 
 *Fig 4: contents of the the Atom.io CONTRIBUTING.md file in Github*
 
