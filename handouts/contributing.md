@@ -54,11 +54,9 @@ CONTRIBUTING.md should be one of your first priorities in putting an open source
 
 ### Steps to complete:
 
-1. This exercise can be done individually or in a group. Try to build a draft of the CONTRIBUTING.md file with the core contributors to your project, to help others feel a shared sense of responsibility, and create the best possible guide for encouraging new contributors. It's sometimes best to practice building a markdown file in an offline program like [Mou](http://25.io/mou/) or an online one like [Dilliger](http://dillinger.io/), before you post it online
+1. This exercise can be done individually or in a group. Try to build a draft of the CONTRIBUTING.md file with the core contributors to your project, to help others feel a shared sense of responsibility, and create the best possible guide for encouraging new contributors. It's sometimes best to practice building a markdown file in an offline program like [Mou](http://25.io/mou/) or an online one like [Dilliger](http://dillinger.io/), before you post it online.
 
-2. Whether in person in a group or online, start by reflecting on what to include, and what to invite (in terms of contributions) in your CONTRIBUTING.md.
-
-#####To Include
+2. Start by reflecting on what to include, and what to invite (in terms of contributions) in your CONTRIBUTING.md.
 
 * Welcome contributors to the project - admit that you are eager for contributions and so happy they found themselves here. 
 
@@ -93,12 +91,6 @@ CONTRIBUTING.md should be one of your first priorities in putting an open source
 * Recognition - provide a pre-emptive "thank you" for contributing, and list any recognition contributors might receive for participating in your project (if applicable)
 * Who is involved - [Open Government's CONTRIBUTING.md](https://github.com/opengovernment/opengovernment/blob/master/CONTRIBUTING.md) has as a name/author, and it might be nice to have a more personal/friendly individual to attact to a project and reach out to with questions. You might list the core contributors and their preferred methods of contact here, or link to a [humans.txt](http://humanstxt.org/) file in your root directory (same place as your CONTRIBUTING.md file), which lets people know who they are working. Here is an example of a [humans.txt file](http://www.stereosemantics.com/humans.txt).
 * Where can I ask for help - a nice extension to the previous section, with links to good comms channels for anyone with questions.
-
-#####To Invite
-
-* you can invite readers contribute fixes to bugs listed in issues, check out Mozilla's guide to "good first bugs" [here](https://wiki.mozilla.org/Good_first_bug)
-* you can invite them to test user experience and submit bugs
-* you can invite them to submit "enhancements," or submit feature requests via Github issues or your issue tracker of choice
 
 3. Create a file named CONTRIBUTING.md
 
