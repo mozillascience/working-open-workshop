@@ -54,15 +54,19 @@ CONTRIBUTING.md should be one of your first priorities in putting an open source
 
 ### Steps to complete:
 
-1. This exercise can be done individually or in a group. Try to build a draft of the CONTRIBUTING.md file with the core contributors to your project, to help others feel a shared sense of responsibility, and create the best possible guide for encouraging new contributors. It's sometimes best to practice building a markdown file in an offline program like [Mou](http://25.io/mou/) or an online one like [Dilliger](http://dillinger.io/), before you post it online.
+This exercise can be done individually or in a group. Try to build a draft of the CONTRIBUTING.md file with the core contributors to your project, to help others feel a shared sense of responsibility, and create the best possible guide for encouraging new contributors. It's sometimes best to practice building a markdown file in an offline program like [Mou](http://25.io/mou/) or an online one like [Dilliger](http://dillinger.io/), before you post it online.
 
-2. Start by reflecting on what to include, and what to invite (in terms of contributions) in your CONTRIBUTING.md.
+##### STEP 1: Reflect/Plan
+
+Start by reflecting on what to include, and what to invite (in terms of contributions) in your CONTRIBUTING.md.
 
 * Welcome contributors to the project - admit that you are eager for contributions and so happy they found themselves here. 
 
 > :+1::tada: First off, thanks for taking the time to contribute! :tada::+1:
 
 * Table of Contents - if your CONTRIBUTING.md file is long, you might consider including a table of contents with links to different headings in your document. In github, each heading is given a URL by default, so you can link to that URL in the appropriate section of the Table of Contents for each heading. Do this in Markdown by wrapping the heading in `[ ]` and following with a parenthetical that includes the URL or header after `#`, like `[Reporting Bugs](#reporting-bugs)`.
+
+So this in Markdown:
 
 ```
 [Styleguides](#styleguides)
@@ -72,6 +76,14 @@ CONTRIBUTING.md should be one of your first priorities in putting an open source
   * [Documentation Styleguide](#documentation-styleguide)
 
 ```
+
+...would look like this when rendered:
+
+[Styleguides](#styleguides)
+  * [Git Commit Messages](#git-commit-messages)
+  * [CoffeeScript Styleguide](#coffeescript-styleguide)
+  * [Specs Styleguide](#specs-styleguide)
+  * [Documentation Styleguide](#documentation-styleguide)
 
 * Short link to important resources -  
  * **docs**: handbook/roadmap (you'll learn more about this in the roadmapping session, you can read the outline for that [here](http://mozillascience.github.io/leadership-training/02.2-roadmap.html) and take a look at the [Study Group Handbook](http://mozillascience.github.io/studyGroupHandbook/) as an example)
@@ -92,10 +104,13 @@ CONTRIBUTING.md should be one of your first priorities in putting an open source
 * Who is involved - [Open Government's CONTRIBUTING.md](https://github.com/opengovernment/opengovernment/blob/master/CONTRIBUTING.md) has as a name/author, and it might be nice to have a more personal/friendly individual to attact to a project and reach out to with questions. You might list the core contributors and their preferred methods of contact here, or link to a [humans.txt](http://humanstxt.org/) file in your root directory (same place as your CONTRIBUTING.md file), which lets people know who they are working. Here is an example of a [humans.txt file](http://www.stereosemantics.com/humans.txt).
 * Where can I ask for help - a nice extension to the previous section, with links to good comms channels for anyone with questions.
 
-3. Create a file named CONTRIBUTING.md
+##### STEP 2: Create a file named CONTRIBUTING.md
 
 * Start by making the structure of your project clean and welcoming, with folder titles that make sense, if you have several projects, consider adopting a template "project structure" that is consistent across projects, take a look at this [example](https://github.com/CODESIGN2/Project-Structure).
 * Author a CONTRIBUTOR.md file that fits your projects, check out the models below in "Followup Resources", and inorporate the appropriate "To Include" items above.
+
+#### STEP 3: Make supporting materials
+
 * Make a LICENSE - make a LICENSE.md file that you can reference in your CONTRIBUTOR.md file, use the following links to generate and copy the appropriate text: https://creativecommons.org/choose/ + http://choosealicense.com/
 * Make a README - make a README.md with a brief description of your project and some setup/installation details that you might link to in your CONTRIBUTOR.md file.
 * Create a system for rewarding people
