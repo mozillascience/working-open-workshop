@@ -1,3 +1,10 @@
+/*
+  Do not make manual changes to this stylesheet.
+  To make style changes, edit the "style-dev.less" file while previewing the /dev_template/index.html file.
+  When you're ready, use http://lesscss.org/less-preview/ to compile the .less file into CSS and
+  replace the CSS below this message with the output.
+*/
+
 body {
   font-family: "Fira Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
