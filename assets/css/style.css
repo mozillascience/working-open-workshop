@@ -3,6 +3,10 @@
   To make style changes, edit the "style-dev.less" file while previewing the /dev_template/index.html file.
   When you're ready, use http://lesscss.org/less-preview/ to compile the .less file into CSS and
   replace the CSS below this message with the output.
+
+  Note: for background images from the assets folder.. remove "assets" from the url() delaration
+  This -    background: url(../assets/images/nav-selected-indicator.svg);
+  Becomes - background: url(../images/nav-selected-indicator.svg);
 */
 
 body {
@@ -237,7 +241,7 @@ nav a:hover {
 }
 nav a:after {
   content: "";
-  background: url(../assets/images/nav-selected-indicator.svg);
+  background: url(../images/nav-selected-indicator.svg);
   background-position: top left;
   background-repeat: no-repeat;
   background-size: contain;
