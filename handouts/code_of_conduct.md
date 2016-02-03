@@ -1,5 +1,7 @@
 ### Title: Getting Started with Code of Conducts
 
+Updated lesson: http://mozillascience.github.io/working-open-workshop/code_of_conduct/
+
 ### Learning Goals:
 This exercise will walk you through some of the considerations associated with anti-harassment policies, and help you put in place a plan and process for creating a welcoming, inclusive, harrassment-free space.
 
