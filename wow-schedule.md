@@ -28,8 +28,8 @@
 **Work Session** (1 hour 45 mins-ish)
 
 * small groups of 3 to 4
-* facilitator-led work zones for Roadmapping, Readme, Contributor Guidelines (2 zones each?)
-* participants move from zone to zone to work on deliverables, for as long as needed; we make announcements at 30 min mark
+* facilitator-led work zones for Roadmapping, Readme, Contributor Guidelines 
+* participants move from zone to zone to work on deliverables, for as long as needed; check-in at 30 min mark
 *  facilitators provide one-on-one feedback and guidance
 *  cross-group work is welcome, for feedback and discussion
 
