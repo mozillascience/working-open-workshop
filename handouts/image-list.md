@@ -1,3 +1,4 @@
+![](img/Badges - Open Canvas.jpg)
 ![](img/branching-naming.png)
 ![](img/branching-navigate.png)
 ![](img/coc-commit-message.png)
@@ -12,6 +13,8 @@
 ![](img/issues-labels.png)
 ![](img/issues-search.png)
 ![](img/merge-pull-request.png)
+![](img/Open Canvas - Details.jpg)
+![](img/Open Canvas.jpg)
 ![](img/pull-request-ask.png)
 ![](img/pull-request-button.png)
 ![](img/pull-request-comment.png)
