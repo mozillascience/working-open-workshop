@@ -28,7 +28,7 @@ Whether you're studying the human genome, black holes, deep sea ecology, medieva
 ####Oh, by the way, what's Mozilla Science Lab??
 At [Mozilla Science Lab](https://mozillascience.org/) we help scientists and researchers (anyone from students to established researchers to citizen scientists) to work openly and do better research, more research, and make that research more useful by sharing it widely.  
 
-We provide leadership training (such as this Workshop), learning materials and formats (such as Mozilla Study Groups), platforms for sharing and showcasing open Science projects (such as MSL Collaborate), and support for leaders in open science (through our Fellowships for Open Science and the OLC)
+We provide leadership training (such as this Workshop), learning materials and formats (such as [Mozilla Study Groups](http://mozillascience.github.io/studyGroupHandbook/)), platforms for sharing and showcasing open Science projects (such as [MSL Collaborate](https://mozillascience.org/collaborate)), and support for leaders in open science (through the [Mozilla Fellows for Science](https://mozillascience.org/fellows) and the OLC)
 
 
 
