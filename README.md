@@ -1,6 +1,8 @@
 # Welcome to the Working Open Workshop repo!
 This is a repo to collect all materials and resources related to Mozilla Science Lab's Working Open Workshop. You are invited to fork this repo and use our materials-- please let us know what you do with them and how it goes!
 
+![wow](https://mozillascience.org/img/working-open-workshop_1600x800.jpg)
+
 ####What is the Working Open Workshop?
 
 The Working Open Workshop (or WOW) is **a set of trainings created by Mozilla Science Lab to help up-and-coming leaders of open science and open research projects make the most effective open projects possible, and build active communities of contributors around them.** Specifically, WOW prepares project leads for a strong launch on Collaborate (our platform for open source work) and a wildly successful local and Global Sprints on their projects. (see the below for more about Open Science and Mozilla Sicence Lab). **Read the summary below, or check out our [Workshop Schedule](https://github.com/mozillascience/working-open-workshop/blob/gh-pages/wow-schedule.md) and [Roadmap](https://github.com/mozillascience/working-open-workshop/blob/gh-pages/roadmap.md) to see what we're working on.**
@@ -24,7 +26,7 @@ Visit MSL's website for information about upcoming WOW events near you! Check ou
 Whether you're studying the human genome, black holes, deep sea ecology, medieval music,  or alternative energy sources, research is a practice and process of learning, and creating knowledge. Researchers always build on (or transform) an existing understanding of the world. **A researcher working open shares insights or discoveries freely, makes her data available on the web, or makes the details of a new experimental technique or tool public so others can use and reuse it. By working open, she empowers fellow researchers and furthers our collective knowledge... knowledge that can be used to solve problems, save lives, and inspire and amaze us all.** The more data, knowledge, methods, tools and skills made widely and openly available to all, the better.  
 
 ####Oh, by the way, what's Mozilla Science Lab??
-At Mozilla Science Lab we help scientists and researchers (anyone from students to established researchers to citizen scientists) to work openly and do better research, more research, and make that research more useful by sharing it widely.  
+At [Mozilla Science Lab](https://mozillascience.org/) we help scientists and researchers (anyone from students to established researchers to citizen scientists) to work openly and do better research, more research, and make that research more useful by sharing it widely.  
 
 We provide leadership training (such as this Workshop), learning materials and formats (such as Mozilla Study Groups), platforms for sharing and showcasing open Science projects (such as MSL Collaborate), and support for leaders in open science (through our Fellowships for Open Science and the OLC)
 
