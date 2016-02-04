@@ -6,30 +6,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href='https://fonts.googleapis.com/css?family=Fira+Sans:400,400italic,500,500italic,700' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
-    <link rel="stylesheet/less" href="css/style.less">
+    <link rel="stylesheet" href="../assets/css/style.css">
     <link rel="icon" type="image/ico" href="https://mozillascience.org/img/favicon.ico">
 
     <script src="https://code.jquery.com/jquery-2.1.4.min.js" type="text/javascript" charset="utf-8"></script>
-    <script src="javascript/script.js" type="text/javascript" charset="utf-8"></script>
-    <script>
-      less = {
-        env: "development",
-        async: false,
-        fileAsync: false,
-        poll: 1000,
-        functions: {},
-        dumpLineNumbers: "comments",
-        relativeUrls: false,
-        rootpath: ":/a.com/"
-      };
-    </script>
-    <script src="javascript/less.js" type="text/javascript"></script>
+    <script src="../assets/javascript/script.js" type="text/javascript" charset="utf-8"></script>
   </head>
 
   <body>
     <aside>
       <div class="image">
-        <img src="images/science-fox.svg">
+        <img src="../assets/images/science-fox.svg">
       </div>
       <nav>
         <a class="selected" href="#introduction">Introduction</a>
@@ -42,7 +29,7 @@
     <article>
       <div class="logo">
         <a href="https://mozillascience.org" title="Mozilla Science Lab">
-          <img src="images/science-lab-logo.svg" />
+          <img src="../assets/images/science-lab-logo.svg" />
         </a>
       </div>
 
@@ -55,7 +42,7 @@
           and grow them into strong, committed community members.
         </p>
         <div class="details">
-          <time>45 to 60 minutes</time>
+          <time>30 - 45 minutes</time>
           <p class="difficulty">For beginners</p>
         </div>
       </div>
@@ -90,20 +77,23 @@
       <h2 id="introduction">Introduction</h2>
 
       <p>
-        Your open project needs users and contributors, but how can you find them,
-        get them involved, and keep them engaged and active in your community?
-        One way is by creating and using "personas" and "pathways" to help you.
+        Your open project needs users and contributors, but how can you find them, get
+        them involved, and keep them engaged and active in your community? One way is
+        by creating and using "personas" and "pathways" to help you plan and test how
+        you'll interact with new contributors.
       </p>
 
+      <h3>About Personas</h3>
+
       <p>
-        A “persona” is a tool commonly used in the design world, to help create products
-        and experiences that work for real world users (aka “user-centered design”).
-        The persona is an imaginary user, based on real-world observations and understandings
-        of actual potential or current users. The persona becomes real to the designer,
-        and is used as a tool to test ideas and experiences (for example, a designer
-        might ask “Would our user persona, Rodrigo, who is an avid photographer and
-        technophile but also an introvert who’s protective of his private information,
-        like feature x of our social media platform?”).
+         “persona” is a tool commonly used in the design world, to help create products
+         and experiences that work for real world users (aka “user-centered design”).
+         The persona is an imaginary user, based on real-world observations and
+         understandings of actual potential or current users. The persona becomes
+         real to the designer, and is used as a tool to test features and experiences
+         (for example, a designer might ask “Would our user persona, Rodrigo, who is an
+         avid photographer and technophile but also an introvert who’s protective of
+         his private information, like feature x of our social media platform?”).
       </p>
 
       <p>
@@ -120,9 +110,9 @@
         <section class="content">
           <p>
             Rashid is a PhD student in astronomy at a university in Southern England.
-            He’s outgoing and a snappy dresser, favoring skinny jeans and colorful cardigans.
-            He lives in on-campus housing and after a long day at the lab he usually rushes home
-            to see his wife and infant son.
+            He’s outgoing and a snappy dresser, favoring skinny jeans and colorful
+            cardigans. He lives in on-campus housing and after a long day at the lab
+            he usually rushes home to see his wife and infant son.
           </p>
           <p>
             Rashid took an intro Java programming course long ago,
@@ -148,11 +138,42 @@
         <li><strong>Leadership</strong> - How they may take on some additional responsibility on the project, or begin to lead.</li>
       </ol>
 
+      <section class="example">
+        <section class="title">
+          <h1>Sample Pathway</h1>
+        </section>
+        <section class="content">
+          <p>
+            Rashid took an intro Java programming course long ago, as an undergrad, but his research
+            now demands Python skills. He attended a two-day Software Carpentry workshop at his
+            institution. He found the training valuable but has encountered difficulties in
+            debugging and troubleshooting since the workshop, and is struggling on his own.
+            Because of the competitive nature of his lab, he’s reluctant to ask colleagues for help.
+            He follows Mozilla Science Labs on Twitter, has some exposure to and interest to Open
+            Science, but is hesitant to share his data for fear of being “scooped” on an important discovery.
+          </p>
+        </section>
+      </section>
       <p>
-        As you create your pathway, ask yourself, what needs to be in place to move Rashid along this pathway?
-        What are the potential pitfalls for Rashid-- in terms of his skills, his time, his motivations?
-         Once you have a sense of this story, you might list solutions to any challenges.
-         Here are a few examples&hellip;
+        If we've constructed a good persona, we can clearly see a progression of steps. Example (using Rashid)
+      </p>
+
+      <ol>
+        <li><strong>Discovery</strong> - Sees poster advertising study group around campus.</li>
+        <li><strong>First Contact</strong> - Attends a meeting of the group, and is encouraged to return in a follow up email.</li>
+        <li><strong>Participation</strong> - Asks and answers questions during the help session.</li>
+        <li><strong>Sustained Participation</strong> - Attends several "hackathons" sessions throughout the semester.</li>
+        <li><strong>Networked Participation</strong> - Invites some of his colleagues from his lab to a session.</li>
+        <li><strong>Leadership</strong> - Agrees to present an intro session on Java, and creates a learning resource
+          to contribute to the group's repo.
+        </li>
+      </ol>
+
+      <p>
+        As you create your pathway, ask yourself, what needs to be in place to move your persona
+        along this pathway? What are the potential pitfalls for your persona, in terms of skills,
+        time, motivations? Once you have a sense of this story, you might list solutions to any
+        challenges. Here are examples:
       </p>
 
       <ul>
@@ -179,11 +200,7 @@
               <h2>Who is the person you most need in your community or on your project?</h2>
               <time>3 minutes each</time>
               <p>
-                Create a persona for this user. Think of the skill set or attributes you want,
-                but ALSO give them a name, age, a place to live, life circumstances (single,
-                married? family? student? mid-career?), what they like and don’t like, etc.
-                This may seem superfluous, but the more real the persona feels to you, the
-                more useful they’ll be. Have fun with this!
+                Think of skills and attributes, but also give them identifying details.
               </p>
             </li>
 
@@ -191,9 +208,7 @@
               <h2>What are that person's motivations and needs?</h2>
               <time>3 minutes each</time>
               <p>
-                What’s likely to get your persona engaged and excited? What are their personal
-                goals? Why might they be drawn to your project? What might be the value for
-                them &mdash; what can they get out of it?
+                Think of what might draw them to your project, what is the value for them?
               </p>
             </li>
           </ul>
@@ -202,7 +217,7 @@
         <!-- Step 2 -->
         <li>
           <h1>Write</h1>
-          <time>3 minutes each</time>
+          <time>3-4 minutes each</time>
           <p>
             Create a short description of your persona. See above "Rashid" for an example.
           </p>
@@ -211,21 +226,20 @@
         <!-- Step 3 -->
         <li>
           <h1>Plan a Pathway</h1>
-          <time>30 minutes</time>
+          <time>3 minutes each</time>
           <p>
-            Using the structure above, describe a pathway for your persona. What are the steps through
-            this project? What could stumbling blocks for user? What skills, info, or resources are
-            missing that they”ll need to better engage with the project? What kinds of things might
-            drive them away from your project?
+            Using the structure above, describe a pathway for your persona. What are the steps
+            through this project? What could be stumbling blocks for user?
           </p>
         </li>
 
         <!-- Step 4 -->
         <li>
           <h1>List your Solutions</h1>
+          <time>3 minutes each</time>
           <p>
-            For each potential stumbling block or difficulty your user might encoutner, list a solution
-            that you'll work into your design of your grop or project.
+            For each potential stumbling block or barrier your user might encounter, list a
+            solution that you'll work into your design of your group or project.
           </p>
         </li>
       </ol>
@@ -235,7 +249,7 @@
         <section class="term">
           <h3>Persona</h3>
           <p>
-            A fictional user, based on real-world observations of actual or potential users. personas are used
+            A fictional user, based on real-world observations of actual or potential users. Personas are used
             to test and shape the design of a product or experience, so that the final design responsive
             and relevant to user needs.
           </p>
@@ -245,7 +259,7 @@
       <h2 id="resources">Follow-up Resources &amp; Materials</h2>
       <ul>
         <li>
-          You may find it useful to review this handout on the the creation of your Contributing.md
+          You may find it useful to review this handout on the the creation of your CONTRIBUTING.md
           file in light of your new understanding of your users.
         </li>
         <li>
