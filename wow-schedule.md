@@ -70,9 +70,9 @@
 *9:30am - 12:30pm* 
 **Short Talks** (10 mins each, to intro concepts and prep participants to work on deliverables)  (30 mins)
 
- * Code of Conduct (Kaitlin + ?)
+ * Code of Conduct (Kaitlin)
  * Event Planning (Madeline + Arliss)
- * Personas and Pathways (Zannah + ?)
+ * Personas and Pathways (Zannah)
 
 **Share-outs** (10 mins)
 
@@ -88,7 +88,7 @@
 
 **Short talk** (10-15 mins)
 
-* Open Data and Data Reuse Plans (Steph & Christie + ?)
+* Open Data and Data Reuse Plans (Steph & Christie)
 
 **Shareouts** (5 mins)
 
