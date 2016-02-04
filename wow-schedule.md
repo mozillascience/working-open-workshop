@@ -17,7 +17,7 @@
 ####How to Open Your Project
 *10:15am - 12:30pm*
 
-**Short Talks** (10 mins each, to intro concepts and prep participants to work on deliverables)  (30 mins)
+**Short Talks** (10 mins each - 30 mins total)
 
 * Readme and project communication (Zannah)
 * Roadmapping (Abby)
