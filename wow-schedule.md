@@ -12,7 +12,7 @@
 
 *9:40 - 10:00am*  - Diversity & Inclusion Exercise 
 
-**Break** (15 mins)
+**Break** (25 mins)
 
 ####How to Open Your Project
 *10:15am - 12:30pm*
@@ -22,8 +22,6 @@
 * Readme and project communication (Zannah)
 * Roadmapping (Abby)
 * Contributor Guidelines (Aurelia)
-
-**Share-outs** from 2 group members, 5 mins each (10 mins)
 
 **Break** (15 mins)
 
@@ -51,9 +49,7 @@
 * basics on branches, forks, merges, pull requests 
 * polite collaboration 
 
-**Share-outs** (10 mins)
-
-**Break** (15 mins)
+**Break** (25 mins)
 
 **Work session/small groups** (1 hour 45)
 
@@ -68,17 +64,15 @@
 
 ####Community Building and Managment
 *9:30am - 12:30pm* 
-**Short Talks** (10 mins each, to intro concepts and prep participants to work on deliverables)  (30 mins)
+**Short Talks** (10 mins each - 30 mins total)
 
  * Code of Conduct (Kaitlin)
  * Event Planning (Madeline + Arliss)
  * Personas and Pathways (Zannah)
 
-**Share-outs** (10 mins)
+**Break** (25 mins)
 
-**Break** (15 mins)
-
-**Work session/small groups** (1 hour 45)
+**Work session/small groups** (1 hour 45 mins)
 
 ####Lunch 
 *12:30pm - 1:30pm*
@@ -90,16 +84,11 @@
 
 * Open Data and Data Reuse Plans (Steph & Christie)
 
-**Shareouts** (5 mins)
-
 **Work session** (45 mins)
 
 **Wrap up** (10 mins)
-
 
 ####Closing 
 *2:45 - 3:00*
 
 
-####Skillshare/breakout sessions
-*3:00pm - 4:00pm* 
