@@ -6,16 +6,16 @@ We will learn how to create and maintain a roadmap for an open source project
 ### Target Audience:
 new project leads on open source projects
 
-### Delivery Format: 
+### Delivery Format:
 In person workshop
 
-### Level: 
+### Level:
 Beginner friendly
 
-### Time to complete: 
+### Time to complete:
 45 mins
 
-### What you'll need to start: 
+### What you'll need to start:
 computer, your favourite browser, GitHub account, open source project on GitHub
 
 ### Before using this resource you should be familiar with:
@@ -25,12 +25,12 @@ computer, your favourite browser, GitHub account, open source project on GitHub
 ### For information on those topics, see:
 * @zee-moz's README lesson
 
-### Glossary of key terms: 
+### Glossary of key terms:
 * **Roadmap**: Schedule of work to be done on a project
 * **Milestone**: An event or state marking a specific stage in development on the project
 
-### Intro to material: 
-When you're starting on an open source project, it's important to record what your community (this might just be you at the beginning) decides to work on! A roadmap organizes the tasks that nees to be done on a project around milestones. This helps potential contributors understand the current status of your poject and where it's going next. 
+### Intro to material:
+When you're starting on an open source project, it's important to record what your community (this might just be you at the beginning) decides to work on! A roadmap organizes the tasks that nees to be done on a project around milestones. This helps potential contributors understand the current status of your poject and where it's going next.
 
 A roadmap can also express your vision for the project. Make sure you clearly state why you are implementing certain things to get people excited about joining.
 
@@ -67,7 +67,7 @@ You can see an example of this in the [Contributorship Badges for Science Roadma
   * **Lists tasks under each milestone**. Take time here to explain *why* you are doing this task. It can help enforce your vision for this project.
     * Your tasks will probably be more detailed in shorter-term goals
 
-### Follow-up resources and materials: 
+### Follow-up resources and materials:
 
 
 ### Any credits or attribution:

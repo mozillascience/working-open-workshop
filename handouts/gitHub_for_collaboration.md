@@ -71,5 +71,5 @@ This exercise walks you through a workflow for collaboration on open projects an
 11. As project lead: close the issue with thanks, gifs, and emojis!
 
 **Any credits or attribution:**
-Joey K. Lee, Abby Cabunoc, Zannah Marsh, and Arliss Collins contributed to the creation of this resource.
+Joey Lee, Abby Cabunoc, Zannah Marsh, and Arliss Collins contributed to the creation of this resource.
       
