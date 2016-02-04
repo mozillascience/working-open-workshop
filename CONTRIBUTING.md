@@ -1,6 +1,6 @@
 ### Thinking of contributing to the Working Open Workshop? That's great! We'd love to have you.
 
-We value the participation of all contributors. To help maintain a welcoming and safe atmosphere online at at our events we have a [code of conduct](https://mozillascience.org/code-of-conduct) in place. Make sure you read it.
+We value the participation of all contributors. To help maintain a welcoming and safe atmosphere online and at our events we have a [code of conduct](https://mozillascience.org/code-of-conduct) in place. Make sure you read it.
 
 The simplest way you can join in with this repo is to:
 
