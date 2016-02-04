@@ -1,0 +1,1 @@
+We value the participation of all contributors. To help maintain a welcoming and safe atmosphere we have a [code of conduct](https://mozillascience.org/code-of-conduct) that applies to all our events and online spaces.
