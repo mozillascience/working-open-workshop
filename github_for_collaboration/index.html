@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>GitHub for Collaboration On Open Projects</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href='https://fonts.googleapis.com/css?family=Fira+Sans:400,400italic,500,500italic,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <link rel="stylesheet/less" href="css/style.less">
+    <link rel="icon" type="image/ico" href="https://mozillascience.org/img/favicon.ico">
+
+    <script src="https://code.jquery.com/jquery-2.1.4.min.js" type="text/javascript" charset="utf-8"></script>
+    <script src="javascript/script.js" type="text/javascript" charset="utf-8"></script>
+    <script>
+      less = {
+        env: "development",
+        async: false,
+        fileAsync: false,
+        poll: 1000,
+        functions: {},
+        dumpLineNumbers: "comments",
+        relativeUrls: false,
+        rootpath: ":/a.com/"
+      };
+    </script>
+    <script src="javascript/less.js" type="text/javascript"></script>
+  </head>
+
+  <body>
+    <aside>
+      <div class="image">
+        <img src="images/science-fox.svg">
+      </div>
+      <nav>
+        <a class="selected" href="#introduction">Introduction</a>
+        <a href="#steps-to-complete">Steps to Complete</a>
+        <a href="#glossary">Glossary</a>
+        <a href="#resources">Resources</a>
+      </nav>
+    </aside>
+
+    <article>
+      <div class="logo">
+        <a href="https://mozillascience.org" title="Mozilla Science Lab">
+          <img src="images/science-lab-logo.svg" />
+        </a>
+      </div>
+
+      <h1>GitHub for Collaboration On Open Projects</h1>
+
+      <div class="meta-information">
+        <p class="summary">
+          Get comfortable with a Collaborative workflow in the GitHub interface. Practice adding resources to your repo, working with issues and lables, forking and branching, writing commit messages, making and reviewing pull requests, and merging changes. You'll also practice good communication with contributors.
+        </p>
+        <div class="details">
+          <time>45 to 60 minutes</time>
+          <p class="difficulty">Intermediate</p>
+        </div>
+      </div>
+
+      <section class="presentation-details">
+        <section>
+          <h4>Format</h4>
+          <p>
+            This is designed as a in-person, facilitated workshop with pairs of learners working together on each other's repositories. It could also be done online.
+          </p>
+        </section>
+
+        <section>
+          <h4>Target Audience</h4>
+          <p>
+            Project Leads and Contributors
+          </p>
+        </section>
+
+        <section>
+          <h4>Materials</h4>
+          <ul>
+            <li>Two people with projects already hosted on GitHub</li>
+            <li> Computers to work on</li>
+            <li>An Internet connection to access the GitHub site</li>
+          </ul>
+        </section>
+      </section>
+
+      <h2 id="introduction">Introduction</h2>
+
+      <p>
+        The magic of GitHub is providing a structure and space for communicating about those changes, making decisions, assigning tasks. With some good set-up, you can making your project accessible and transparent, and create a respectful and productive working environment for your collaborators.
+
+        This exercise walks you through a workflow for collaboration on open projects and demonstrates good communication with contributors.
+
+        Before you start, provide your partner with a link to your repository. Your repo should look something like this (with your own content, of course).
+      </p>
+      <img src="../handouts/img/repo.png"></img>
+
+
+      <h2 id="steps-to-complete">Steps to Complete</h2>
+
+      <ol class="steps">
+        <!-- Step 1 -->
+        <li>
+          <h1>Add Files</h1>
+          <p>
+            As project lead: add any new files you've created to your repo (readme.md, roadmap.md, contributing.md). Give the file a name, and the .md extension so you can use markdown for formatting. Add your content and click commit at the bottom.
+          </p>
+        </li>
+        <!-- Step 2 -->
+        <li>
+          <h1>Make a Label</h1>
+          <p>
+            As project lead: Make a new label. Click the "Issues" tab, then look for the labels tab, just to the right of the "filter" box. Add a label called "good first bugs."
+            <img src="../handouts/img/repo-labels.png"></img>
+          </p>
+        </li>
+
+        <!-- Step 3 -->
+        <li>
+          <h1>Make An Issue</h1>
+          <p>
+            As project lead: create an issue in your own repo to document a "good first bug". A good first bug is something simple that a new contributor can work on, to give contribution and this way of working a try. It's work that's useful to the project but relatively easy, not so difficult as to be overwhelming or discouraging for someone new to your project. A good first bug is as much an opportunity to learn the workflow as it is to make changes to the project. An example of a good first bug for this exercise: fix a typo in the readme, add a badge, add a science fox, etc.
+            <img src="../handouts/img/repo-issues.png"></img>
+          </p>
+        </li>
+
+        <!-- Step 4 -->
+        <li>
+          <h1>Comment On An Issue </h1>
+          <p>
+            As contributor: Go to your partner's repo, find the "Good First Bug" issue, and comment on the that issue... introduce yourself and volunteer to work on this issue! In your own repo, go to the issue that's just been commented on.
+          </p>
+          <img src="../handouts/img/issues-search.png"></img>
+          <img src="../handouts/img/issue-first-comment.png"></img>
+        </li>
+
+        <li>
+          <h1>Reply to a Comment </h1>
+          <p>
+            As project lead: In your own repo, go to the issue that's just been commented on. Reply to your new contributor and assign this issue to yourself (you should act as a mentor, and offer to anser any questions). Assigning issues is a good way to track which tasks are underway and have help.
+            <img scr="../handouts/img/respondtoissue.png"><img>
+          </p>
+        </li>
+
+        <li>
+          <h1>Fork and Branch</h1>
+          <p>
+            As contributor: Go to your partner's repo and fork it. Then create a branch in your forked copy. Name this branch.
+          </p>
+          <img src="../handouts/img/fork-initializing.png"></img>
+          <img src="../handouts/img/fork-where.png"></img>
+          <img src="../handouts/img/fork-page.png"></img>
+          <p>Then create a branch in your forked copy. Name this branch. </p>
+          <img src="../handouts/img/branching-navigate.png"></img>
+          <img src="../handouts/img/branching-naming.png"></img>
+        </li>
+
+        <li>
+          <h1>Commit </h1>
+          <p>
+            As contributor: Make a change in this branch, and commit it. Write a great commit message! The top line should summarize your changes. Include details in the field below.
+          </p>
+          <img src="../handouts/img/coc-commit-message.png"></img>
+          <img src="../handouts/img/coc-content-additions.png"></img>
+        </li>
+
+        <li>
+          <h1>Make a Pull Request </h1>
+          <p>
+          As contributor: Make a pull request to the orginal (upstream) repo.
+          </p>
+          <img src="../handouts/img/pull-request-button.png"></img>
+          <img src="../handouts/img/pull-request-comment.png"></img>
+          <img src="../handouts/img/pull-request-selection.png"></img>
+          <img src="../handouts/img/pull-request-message.png"></img>
+          <img src="../handouts/img/pull-request-specifying-branch-01.png"></img>
+          <img src="../handouts/img/pull-request-submitted.png"></img>
+          <img src="../handouts/img/pull-request-submitted.png"></img>
+        </li>
+
+
+        <li>
+          <h1>Review </h1>
+          <p>
+            As project lead: Review the pull request and leave a comment thanking the contributor... If you have any questions or comments or discussion points, bring them up here. You could also invite other collaboraters to review or weigh in. Make use of gifs and emoticons here, to emphasize your appreciation!
+          </p>
+        </li>
+
+
+        <li>
+          <h1>Merge </h1>
+          <p>
+            As project lead:  merge the changes from your contributor's pull request into the original repo.
+          </p>
+        </li>
+
+        <li>
+          <h1>Close the Issue</h1>
+          <p>
+            As project lead: close the issue with more thanks, gifs, and emojis!
+          </p>
+        </li>
+      </ol>
+
+
+      <h2 id="glossary">Glossary</h2>
+      <section class="glossary">
+
+        <section class="term">
+          <h3>repository, or repo</h3>
+          <p>
+           a collection of documents where you are working and saving your work
+          </p>
+        </section>
+
+        <section class="term">
+          <h3>markdown</h3>
+          <p>
+           a lightweight way of annotating a document with instructions that tell a web browser how to format and display text.
+          </p>
+        </section>
+
+        <section class="term">
+          <h3>version control</h3>
+          <p>
+          a way of tracking changes to a document or collection of documents. Version control is like a time machine, it can take you back to the moment your document was created, or any other point in time when you or a collaborator saved that document.
+          </p>
+        </section>
+
+        <section class="term">
+          <h3>Git</h3>
+          <p>
+            the command-line software that tracks all changes to a collection of documents
+          </p>
+        </section>
+
+        <section class="term">
+          <h3>GitHub</h3>
+          <p>
+            a service that hosts your repository online and helps you work with contributors. GitHub adds a web-based interface to version control.
+          </p>
+        </section>
+
+        <section class="term">
+          <h3>fork</h3>
+          <p>
+            a copy of a repository that is saved in another user's GitHub account.
+          </p>
+        </section>
+
+        <section class="term">
+          <h3>branch</h3>
+          <p>
+            a copy of a repo that is contained within the orignal repo. Branches are used to work on a project features without altering the original or "master" repo.
+          </p>
+        </section>
+
+        <section class="term">
+          <h3>commit</h3>
+          <p>
+            a saved change to a document in a repository.
+          </p>
+        </section>
+
+        <section class="term">
+          <h3>issue</h3>
+          <p>
+            a message on gitHub that outlines a task that needs to be completed.
+          </p>
+        </section>
+
+        <section class="term">
+          <h3>pull request</h3>
+          <p>
+            a request to add a commit or collection of commits to a repository.
+          </p>
+        </section>
+
+        <section class="term">
+          <h3>merge</h3>
+          <p>
+            the act of incorporating new changes (commits) into a repository.
+          </p>
+        </section>
+      </section>
+
+      <!--
+      <section class="resources">
+        <section class="resource">
+          <h4>Resource Name</h4>
+          <a href="#">http://link.to/resource</a>
+          <p>This is a description of the resource. Summarizes what it is, you know?</p>
+        </section>
+      </section>
+      -->
+
+    </article>
+  </body>
+</html>
