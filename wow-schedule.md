@@ -19,9 +19,9 @@
 
 **Short Talks** (10 mins each, to intro concepts and prep participants to work on deliverables)  (30 mins)
 
-* Readme and project communication (Zannah + ?)
-* Roadmapping (Abby + ?)
-* Contributor Guidelines (Aurelia + ?)
+* Readme and project communication (Zannah)
+* Roadmapping (Abby)
+* Contributor Guidelines (Aurelia)
 
 **Share-outs** from 2 group members, 5 mins each (10 mins)
 
@@ -43,7 +43,7 @@
 ####Tools for Collaboration
 *2:30pm - 5:30pm*
 
-#####GitHub for New Project Leads and Contributors (Arliss, Zannah, Joey +?)
+#####GitHub for New Project Leads and Contributors (Abby, Zannah, Joey)
 **Short Talk with Demo** (20-30 mins)
 
 * intro to version control, model, uses,
