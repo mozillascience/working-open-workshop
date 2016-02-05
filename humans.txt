@@ -20,12 +20,11 @@ Mozilla Fellows:
 
 // Participants (and affiliations) //
  - Brian Bot / Sage Bionetworks / 
- - Jason Bobe / Icahn Institute at Mount Sinai 
  - Achintya Rao / UWE, Bristol + CERN 
  - Fatma Guerfali/Pasteur Institute
  - Amel Ghouila/ Institut Pasteur de Tunis
  - Bastian Greshake / University of Frankfurt & openSNP 
- -  Oliver Sauter / WorldBrain - Verifying the Internet with Science / Berlin 
+ - Oliver Sauter / WorldBrain - Verifying the Internet with Science / Berlin 
  - Gabriella Azzopardi / University of Malta 
  - Harun Urhan / FSMVU 
  - Siddha Ganju / Carnegie Mellon University 
@@ -47,6 +46,8 @@ Mozilla Fellows:
  - Jon Tennant / Imperial College London; ScienceOpen 
  - Harry Smith / Lancaster University 
  - Christopher Kittel / Institute for System Sciences, Uni Graz 
+ - Melissa Romaine / Mozilla, Open Web Fellows program
+ -Sarah Allen / Mozilla
 
 // Special Thanks!! //
  
