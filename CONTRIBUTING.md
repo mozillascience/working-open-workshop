@@ -1,4 +1,17 @@
 
+##About this Project
+
+![](https://media.giphy.com/media/xGIzWN1IdzIhW/giphy.gif)
+
+##Getting Set Up
+
+##Good First Bugs
+
+##Other Resources to Help
+
+##A GIF to get you pumped!
+
+
 Thinking of contributing to the Working Open Workshop? That's great! We'd love to have you.
 
 We value the participation of all contributors. To help maintain a welcoming and safe atmosphere online and at our events we have a code of conduct in place. Make sure you read it.
