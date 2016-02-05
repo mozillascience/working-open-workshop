@@ -1,0 +1,55 @@
+All the lovely humans involved in WoW Berlin 2016
+
+// Team //
+
+Mozilla Science Lab:
+
+  - Abigail Cabunoc Mayes
+  - Arliss Collins
+  - Aurelia Moser
+  - Zannah Marsh
+  - Kaitlin Thaney
+  - Stephanie Wright
+
+Mozilla Fellows:
+  - Christie Bahlai
+  - Richard Smith Unna
+  - Joey Lee
+  - Jason Bobe
+
+
+// Participants (and affiliations) //
+ - Brian Bot / Sage Bionetworks / 
+ - Achintya Rao / UWE, Bristol + CERN 
+ - Fatma Guerfali/Pasteur Institute
+ - Amel Ghouila/ Institut Pasteur de Tunis
+ - Bastian Greshake / University of Frankfurt & openSNP 
+ - Oliver Sauter / WorldBrain - Verifying the Internet with Science / Berlin 
+ - Gabriella Azzopardi / University of Malta 
+ - Harun Urhan / FSMVU 
+ - Siddha Ganju / Carnegie Mellon University 
+ - Patricia Herterich/ CERN & Humboldt-Universitat zu Berlin
+ - Ali Swanson/ Oxford & Zooniverse (www.zooniverse.org & www.snapshotserengeti.org) 
+ - Tom Hardwicke/ Department of Experimental Psychology, UCL
+ - Anirudha Bose / IIIT Bhubaneswar 
+ - Shubham Gupta/ UPES 
+ - Demitri Muna / Ohio State Univ, Trillian Project 
+ - Igor Babuschkin / University of Manchester 
+ - Richard Smith-Unna / Mozilla Science Lab + Cambridge 
+ - Tim Head / project everware
+ - Stuart Mumford / The Univeristy of Sheffield (SunPy) 
+ - Anna Krystalli/ University of Sheffield
+ - Madeleine Bonsma / University of Toronto 
+ - Robert Sullivan / Springer Nature
+ - Kirstie Whitaker / University of Cambridge 
+ - Anelda van der Walt / Talarify & North-West University 
+ - Jon Tennant / Imperial College London; ScienceOpen 
+ - Harry Smith / Lancaster University 
+ - Christopher Kittel / Institute for System Sciences, Uni Graz 
+ - Melissa Romaine / Mozilla, Open Web Fellows program
+ -Sarah Allen / Mozilla
+
+// Special Thanks!! //
+ 
+- Luke Pacholski + the Mozilla Design team for template design. 
+- Norma Miller from White Coat Captioning for transcribing the event!
