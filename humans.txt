@@ -1,7 +1,20 @@
 All the lovely humans involved in WoW Berlin 2016
 
-#Team
+// Team // 
 
-#Participants
+Mozilla Science Lab:
+  - Abby Cabunoc Mayes
+  - Arliss Collins
+  - Aurelia Moser
+  - Kaitlin Thaney
+  - Zannah Marsh
 
-# Special Thanks!!
+Mozilla Fellows for Science:
+  - Richard Smith Unna
+  - Christie Bahlai
+  - Joey Lee
+  - Jason Bobe
+
+// Participants //
+
+// Special Thanks!! //
