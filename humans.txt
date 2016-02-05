@@ -9,6 +9,7 @@ Mozilla Science Lab:
   - Aurelia Moser
   - Zannah Marsh
   - Kaitlin Thaney
+  - Stephanie Wright
 
 Mozilla Fellows:
   - Christie Bahlai
@@ -48,3 +49,5 @@ Mozilla Fellows:
  - Christopher Kittel / Institute for System Sciences, Uni Graz 
 
 // Special Thanks!! //
+ 
+- Luke Pacholski + the Mozilla Design team for template design. 
