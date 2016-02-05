@@ -1,19 +1,31 @@
 All the lovely humans involved in WoW Berlin 2016
 
-#Team
+// Team //
+
+Mozilla Science Lab:
+
+  - Abigail Cabunoc Mayes
+  - Arliss Collins
+  - Aurelia Moser
+  - Zannah Marsh
+  - Kaitlin Thaney
+
+Mozilla Fellows:
+  - Christie Bahlai
+  - Richard Smith Unna
+  - Joey Lee
+  - Jason Bobe
 
 
-#Participants
+// Participants (and affiliations) //
  - Brian Bot / Sage Bionetworks / 
  - Jason Bobe / Icahn Institute at Mount Sinai 
  - Achintya Rao / UWE, Bristol + CERN 
  - Fatma Guerfali/Pasteur Institute
  - Amel Ghouila/ Institut Pasteur de Tunis
-   Greshake / University of Frankfurt & openSNP / @gedankenstuecke
-
-    Oliver Sauter / WorldBrain - Verifying the Internet with Science / Berlin / @WorldBrain2016 / @oliversauter
-
-    Gabriella Azzopardi / University of Malta / @gabyazz / @gabyazz
+ - Bastian Greshake / University of Frankfurt & openSNP / @gedankenstuecke
+ -  Oliver Sauter / WorldBrain - Verifying the Internet with Science / Berlin / @WorldBrain2016 / @oliversauter
+ -Gabriella Azzopardi / University of Malta / @gabyazz / @gabyazz
 
     Harun Urhan / FSMVU / @harunurhan / @harunurhan
 
@@ -59,4 +71,4 @@ All the lovely humans involved in WoW Berlin 2016
 
     Christopher Kittel / Institute for System Sciences, Uni Graz / @chris_kittel 
 
-# Special Thanks!!
+// Special Thanks!! //
