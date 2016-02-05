@@ -28,7 +28,7 @@ Mozilla Fellows:
  -  Oliver Sauter / WorldBrain - Verifying the Internet with Science / Berlin 
  - Gabriella Azzopardi / University of Malta 
  - Harun Urhan / FSMVU 
- -  Siddha Ganju / Carnegie Mellon University 
+ - Siddha Ganju / Carnegie Mellon University 
  - Patricia Herterich/ CERN & Humboldt-Universitat zu Berlin
  - Ali Swanson/ Oxford & Zooniverse (www.zooniverse.org & www.snapshotserengeti.org) 
  - Tom Hardwicke/ Department of Experimental Psychology, UCL
@@ -41,7 +41,7 @@ Mozilla Fellows:
  - Stuart Mumford / The Univeristy of Sheffield (SunPy) 
  - Anna Krystalli/ University of Sheffield
  - Madeleine Bonsma / University of Toronto 
- - Robert Sullivan 
+ - Robert Sullivan / Springer Nature
  - Kirstie Whitaker / University of Cambridge 
  - Anelda van der Walt / Talarify & North-West University 
  - Jon Tennant / Imperial College London; ScienceOpen 
@@ -51,3 +51,4 @@ Mozilla Fellows:
 // Special Thanks!! //
  
 - Luke Pacholski + the Mozilla Design team for template design. 
+- Norma Miller from White Coat Captioning for transcribing the event!
