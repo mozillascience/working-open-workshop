@@ -9,6 +9,7 @@ Mozilla Science Lab:
   - Aurelia Moser
   - Zannah Marsh
   - Kaitlin Thaney
+  - Stephanie Wright
 
 Mozilla Fellows:
   - Christie Bahlai
