@@ -1,20 +1,62 @@
 All the lovely humans involved in WoW Berlin 2016
 
-// Team // 
+#Team
 
-Mozilla Science Lab:
-  - Abby Cabunoc Mayes
-  - Arliss Collins
-  - Aurelia Moser
-  - Kaitlin Thaney
-  - Zannah Marsh
 
-Mozilla Fellows for Science:
-  - Richard Smith Unna
-  - Christie Bahlai
-  - Joey Lee
-  - Jason Bobe
+#Participants
+ - Brian Bot / Sage Bionetworks / 
+ - Jason Bobe / Icahn Institute at Mount Sinai 
+ - Achintya Rao / UWE, Bristol + CERN 
+ - Fatma Guerfali/Pasteur Institute
+ - Amel Ghouila/ Institut Pasteur de Tunis
+   Greshake / University of Frankfurt & openSNP / @gedankenstuecke
 
-// Participants //
+    Oliver Sauter / WorldBrain - Verifying the Internet with Science / Berlin / @WorldBrain2016 / @oliversauter
 
-// Special Thanks!! //
+    Gabriella Azzopardi / University of Malta / @gabyazz / @gabyazz
+
+    Harun Urhan / FSMVU / @harunurhan / @harunurhan
+
+    Siddha Ganju / Carnegie Mellon University / @SiddhaGanju / @sidgan
+
+    Patricia Herterich/ CERN & Humboldt-Universitat zu Berlin/ @pherterich / @pherterich 
+
+    Ali Swanson/ Oxford & Zooniverse (www.zooniverse.org & www.snapshotserengeti.org) /  @alicatzoo
+
+    Tom Hardwicke/ Department of Experimental Psychology, UCL/ @Tom_Hardwicke
+
+    Anirudha Bose / IIIT Bhubaneswar / @onybose / @onyb
+
+    Shubham Gupta/ UPES / @shubham_gupta_ /  @ishub
+
+    Demitri Muna / Ohio State Univ, Trillian Project / @demitrimuna / @demitri
+
+    Igor Babuschkin / University of Manchester / @ibabusch
+
+    Richard Smith-Unna / Mozilla Science Lab + Cambridge / @blahah404
+
+    Tim Head / project everware/@betatim
+
+    Stuart Mumford / The Univeristy of Sheffield (SunPy) / @stuartmumford / @Cadair
+
+    Anna Krystalli/ University of Sheffield/ @annakrystalli/ @annakrystalli
+
+    Melissa Romaine / Mozilla, Open Web Fellows program / @melechuga / @melechuga
+
+    Madeleine Bonsma / University of Toronto / @mbonsma / @mbonsma
+
+    Robert Sullivan / @robertjsullivan
+
+    Kirstie Whitaker / University of Cambridge / @kirstie_j / @KirstieJane
+
+    Sarah Allen / Mozilla / @sarahtallen / @Saallen
+
+    Anelda van der Walt / Talarify & North-West University / @aneldavdw & @NWU_eResearch
+
+    Jon Tennant / Imperial College London; ScienceOpen / @protohedgehog
+
+    Harry Smith / Lancaster University / @zebetus / harry@mozilla.org.uk
+
+    Christopher Kittel / Institute for System Sciences, Uni Graz / @chris_kittel 
+
+# Special Thanks!!
