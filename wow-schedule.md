@@ -67,7 +67,7 @@
 **Short Talks** (10 mins each - 30 mins total)
 
  * Code of Conduct (Kaitlin)
- * Event Planning (Madeline + Arliss)
+ * Event Planning (Madeleine + Arliss)
  * Personas and Pathways (Zannah)
 
 **Break** (25 mins)
