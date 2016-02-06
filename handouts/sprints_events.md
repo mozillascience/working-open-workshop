@@ -14,7 +14,7 @@ All levels
 
 ### Time to complete:
 * 3-5 minutes to read the exercise
-* 30 minutes to complete the initial planning
+* 30 minutes to get started on the initial planning
 * 2 months - to fully plan a local sprint
 * 3 - 4 months - to fully plan a global sprint
 
@@ -176,6 +176,8 @@ Consider the following questions in each section and answer them as detailed as 
 
 ### Follow-up resources and materials:
 https://public.etherpad-mozilla.org/p/sciencelab-facilitation-handout
+https://docs.google.com/spreadsheets/d/14aczcRsP3pn7A1jWowQu3EYSuWj4yRRDxEBAl1-6--w/edit#gid=565772497
+
 
 ### Any credits or attribution:
 
