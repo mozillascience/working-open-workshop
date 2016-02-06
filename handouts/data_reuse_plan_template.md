@@ -1,6 +1,6 @@
 ##**Data Reuse Planning Template**
 
-Create a text file including information provided below, as appropriate.  Save this file as " **DataReusePlan.txt**" and save in top-level folder of your data set for use by future researchers wanting to reuse your data.  To be used with
+Create a text file including information provided below, as appropriate.  Save this file as " **DataReusePlan.txt**" and save in top-level folder of your data set for use by future researchers wanting to reuse your data.
 
 ## | **What** |
 
