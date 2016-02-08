@@ -1,4 +1,6 @@
 # Welcome to the Working Open Workshop repo!
+
+[![Join the chat at https://gitter.im/mozillascience/working-open-workshop](https://badges.gitter.im/mozillascience/working-open-workshop.svg)](https://gitter.im/mozillascience/working-open-workshop?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 This is a repo to collect all materials and resources related to Mozilla Science Lab's Working Open Workshop. You are invited to fork this repo and use our materials-- please let us know what you do with them and how it goes!
 
 ![wow](https://mozillascience.org/img/working-open-workshop_1600x800.jpg)
