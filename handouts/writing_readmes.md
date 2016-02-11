@@ -60,9 +60,11 @@ Copy your new project description (what you're doing, for who, and why) and drop
 In your final readme text, don't restrict yourself to only the most common words--if you do, your project description may become overly simplified and limited. **Use what you've learned from this exercise to keep your readme as jargon-free as possible. If you use jargon, be sure to define those words.** 
 
 **4. Re-write**
+
 Re-write your entire readme in clear language and define all terms. Post your readme in your GitHub repo. 
 
 **Follow-up resources and materials:**
+
 See our guides on Roadmapping and writing Contributing.md files
 
 **Glossary:**
@@ -73,6 +75,7 @@ See our guides on Roadmapping and writing Contributing.md files
 
 
 **Any credits or attribution:**
+
 Created by Zannah Marsh, with assistance from Abby Cabunoc Mayes. Comic from XKCD; Up-Goer 5 text editor from splasho.com
 
 
