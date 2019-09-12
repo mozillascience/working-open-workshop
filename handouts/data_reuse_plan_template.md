@@ -1,4 +1,4 @@
-##**Data Reuse Planning Template**
+## **Data Reuse Planning Template**
 
 Create a text file including information provided below, as appropriate.  Save this file as " **DataReusePlan.txt**" and save in top-level folder of your data set for use by future researchers wanting to reuse your data.
 
@@ -96,7 +96,7 @@ Avoid proprietary formats if possible! Most data can be reformatted to be commun
 
 What is the metadata standard in your field? Not sure? That's normal. Your field may not have a universal standard yet. Check out the [Research Data Alliance recommendations](https://www.rd-alliance.org/recommendations-and-outputs/all-recommendations-and-outputs) and consider getting involved in the creation of metadata standards in your field!
 
-##Note about codebooks and data dictionaries:
+## Note about codebooks and data dictionaries:
 
 The use of additional documentation formats such as codebooks and data dictionaries in conjunction with your DataReusePlan.txt and other data set files makes your data infinitely more reusable and provide assistance with managing your data and your research process as a whole.  Like your Data Reuse Plan, these file are stored with the rest of your data files, usually in a top-level folder.
 
